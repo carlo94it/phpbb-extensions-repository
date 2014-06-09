@@ -19,7 +19,7 @@ If you would add your extensions to our database, please follow the following gu
 	"description": "Extension description",
 	"download": {
 		"url": "https://github.com/vendor/extension-name.git",
-		"version": "master"
+		"version": "master",
 		"type": "git"
 	}
 }
