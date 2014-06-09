@@ -1,0 +1,10 @@
+{
+	"name": "carlo94it/simpleseo",
+	"display-name": "Simple SEO",
+	"description": "A simple URL rewriter extension for generate SEO friendly URLs",
+	"download": {
+		"url": "https://github.com/carlo94it/phpbb-ext-simple-seo.git",
+		"version": "master",
+		"type": "git"
+	}
+}
