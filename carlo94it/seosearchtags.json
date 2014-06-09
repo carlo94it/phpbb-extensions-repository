@@ -1,0 +1,10 @@
+{
+	"name": "carlo94it/seosearchtags",
+	"display-name": "SEO Search Tags",
+	"description": "Show in each topic, a list of tags that users have searched on search engines to find that particular topic",
+	"download": {
+		"url": "https://github.com/carlo94it/phpbb-ext-seo-search-tags.git",
+		"version": "master",
+		"type": "git"
+	}
+}
