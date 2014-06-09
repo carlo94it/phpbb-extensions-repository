@@ -17,15 +17,15 @@ If you would add your extensions to our database, please follow the following gu
 	"name": "vendor/extension-name",
 	"display-name": "Extension name",
 	"description": "Extension description",
-	"version": "1.0.0",
 	"download": {
-		"url": "vendor/extension-name",
-		"type": "github"
-	},
+		"url": "https://github.com/vendor/extension-name.git",
+		"version": "master"
+		"type": "git"
+	}
 }
 ```
 
 ## Downloading methods
 
 Currently the only methods for downloading are:
-* github (URL: username/repository-name)
+* git (URL: repository url, VERSION: branch/tag name)
